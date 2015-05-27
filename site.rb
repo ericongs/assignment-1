@@ -9,3 +9,7 @@ require 'sinatra'
  get '/italian' do
    "Ciao!"
  end
+
+ get '/sp' do
+   "Orale!"
+ end
