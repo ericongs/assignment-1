@@ -4,3 +4,7 @@ require 'sinatra'
  get '/' do
    "I'm alive!"
  end
+
+ get '/italian' do
+   "Ciao!"
+ end
